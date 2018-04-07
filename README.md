@@ -9,8 +9,8 @@ Example Usage:
 
 Output: 
 
-Starting MathExp...
+>Starting MathExp...
 
-your expression: sqrt(32 * 4 / (2 + 6) * 113 - 8 * 12 + 52)
+>your expression: sqrt(32 * 4 / (2 + 6) * 113 - 8 * 12 + 52)
 
-... and the result: 42
+>... and the result: 42
